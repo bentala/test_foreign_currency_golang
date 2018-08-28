@@ -1,0 +1,1 @@
+# test_foreign_currency_golang
